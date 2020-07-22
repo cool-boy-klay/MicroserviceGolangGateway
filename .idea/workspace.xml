@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f3c36d6-4b23-48fd-9ddb-08769a548e4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/oauth.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/oauth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/public/jwt.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1eY3s8U698vTm3mmL5S3ziyydq0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tcp_proxy_middleware" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tcp_proxy_middleware" />
+      <recent name="$PROJECT_DIR$/reverse_proxy" />
+      <recent name="$PROJECT_DIR$/tcp_server" />
+      <recent name="$PROJECT_DIR$/http_proxy_middleware" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/cool-boy-klay/go_gateway" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_gateway" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-endpoint=dashboard" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/cool-boy-klay/go_gateway" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/cool-boy-klay/go_gateway" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f3c36d6-4b23-48fd-9ddb-08769a548e4c" name="Default Changelist" comment="" />
+      <created>1594484902472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594484902472</updated>
+      <workItem from="1594484904342" duration="38760000" />
+      <workItem from="1594965658307" duration="56563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,https://goproxy.io,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="122" key="#GOROOT" timestamp="1594484928896">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="338" y="122" key="#GOROOT/0.23.1440.828@0.23.1440.828" timestamp="1594484928896" />
+    <state x="191" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595317932778">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="191" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1595153827170" />
+    <state x="191" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1595317932778" />
+    <state x="449" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594968400443">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="449" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.828@0.23.1440.828" timestamp="1594968400443" />
+    <state width="1358" height="80" key="GridCell.Tab.0.bottom" timestamp="1595317942355">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.0.bottom/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594701900638" />
+    <state width="1358" height="270" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1595154264728" />
+    <state width="1358" height="80" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1595317942355" />
+    <state width="1358" height="80" key="GridCell.Tab.0.center" timestamp="1595317942354">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.0.center/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594701900637" />
+    <state width="1358" height="270" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1595154264727" />
+    <state width="1358" height="80" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1595317942354" />
+    <state width="1358" height="80" key="GridCell.Tab.0.left" timestamp="1595317942353">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.0.left/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594701900637" />
+    <state width="1358" height="270" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1595154264726" />
+    <state width="1358" height="80" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1595317942353" />
+    <state width="1358" height="80" key="GridCell.Tab.0.right" timestamp="1595317942355">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="189" key="GridCell.Tab.0.right/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594701900638" />
+    <state width="1358" height="270" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1595154264727" />
+    <state width="1358" height="80" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1595317942355" />
+    <state width="1358" height="181" key="GridCell.Tab.1.bottom" timestamp="1595302857186">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.bottom/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594614302166" />
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1595154267755" />
+    <state width="1358" height="181" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1595302857186" />
+    <state width="1358" height="181" key="GridCell.Tab.1.center" timestamp="1595302857186">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.center/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594614302165" />
+    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1595154267749" />
+    <state width="1358" height="181" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1595302857186" />
+    <state width="1358" height="181" key="GridCell.Tab.1.left" timestamp="1595302857185">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.left/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594614302164" />
+    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1595154267748" />
+    <state width="1358" height="181" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1595302857185" />
+    <state width="1358" height="181" key="GridCell.Tab.1.right" timestamp="1595302857186">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="259" key="GridCell.Tab.1.right/0.23.1440.828/1440.-74.1920.1057@1440.-74.1920.1057" timestamp="1594614302166" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1595154267753" />
+    <state width="1358" height="181" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1595302857186" />
+    <state x="247" y="84" key="SettingsEditor" timestamp="1594485388453">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="247" y="84" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1594485388453" />
+    <state x="337" y="301" width="816" height="550" key="find.popup" timestamp="1594485681381">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="337" y="301" width="816" height="550" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1594485681381" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/service.go</url>
+          <line>96</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/admin_login.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/oauth.go</url>
+          <line>47</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http_proxy_middleware/http_reverse_proxy.go</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http_proxy_middleware/http_white_list.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http_proxy_middleware/http_black_list.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http_proxy_middleware/http_jwt_flow_count.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/app.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http_proxy_middleware/http_flow_limit.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/http_proxy_middleware/http_flow_count.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tcp_proxy_router/tcpserver.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tcp_proxy_router/tcpserver.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controller/oauth.go</url>
+          <line>73</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
